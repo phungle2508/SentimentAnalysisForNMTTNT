@@ -226,3 +226,4 @@ pip-selfcheck.json
 
 best_model.keras
 item_encoder.pkl
+.gradio
